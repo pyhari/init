@@ -1,2 +1,3 @@
-def answer(l):
-    print("Hello", l)
+def answer(keys):
+    for key in keys:
+       print(key)
