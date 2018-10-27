@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="426ea2b4-6e0d-4fc3-ba07-2f59c779bc10" name="Default Changelist" comment="">
+    <list default="true" id="426ea2b4-6e0d-4fc3-ba07-2f59c779bc10" name="Default Changelist" comment="initial commit +1">
+      <change afterPath="$PROJECT_DIR$/Learn/mymachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/objects.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/access_codes/accesscode.py" beforeDir="false" afterPath="$PROJECT_DIR$/access_codes/accesscode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/access_codes/accesscode_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/access_codes/accesscode_test.py" afterDir="false" />
@@ -16,42 +18,42 @@
     <session id="274013962">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="acccesscodes" value="1" />
           <entry key="iml" value="1" />
-          <entry key="py" value="10" />
+          <entry key="py" value="14" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="Python" value="11" />
+          <entry key="Python" value="15" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="54" />
-          <entry key="py" value="523" />
+          <entry key="Python Console" value="517" />
+          <entry key="py" value="831" />
           <entry key="txt" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="577" />
+          <entry key="Python" value="1348" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -62,23 +64,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/access_codes/accesscode.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP/objects.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
               <folding>
-                <marker date="1539591315432" expanded="true" signature="17:22" ph="..." />
+                <marker date="1540604904364" expanded="true" signature="11:16" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/access_codes/accesscode_test.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learn/mymachine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -91,6 +93,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>initial commit +1</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -105,14 +112,16 @@
         <option value="$PROJECT_DIR$/access_codes/access_code.py" />
         <option value="$PROJECT_DIR$/access_codes/accesscode.py" />
         <option value="$PROJECT_DIR$/access_codes/accesscode_test.py" />
+        <option value="$PROJECT_DIR$/Learn/mymachine.py" />
+        <option value="$PROJECT_DIR$/OOP/objects.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1299" />
-    <option name="height" value="743" />
+    <option name="y" value="88" />
+    <option name="width" value="1289" />
+    <option name="height" value="555" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,7 +155,7 @@
             <path>
               <item name="google" type="b2602c69:ProjectViewProjectNode" />
               <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="access_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="google" type="b2602c69:ProjectViewProjectNode" />
@@ -159,7 +168,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/access_codes/accesscode_test.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
@@ -179,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.debugger">
+  <component name="RunManager" selected="Python.objects">
     <configuration name="debugger" type="PythonConfigurationType" factoryName="Python">
       <module name="google" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,11 +197,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/access_codes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/access_codes/accesscode_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/mymachine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="objects" type="PythonConfigurationType" factoryName="Python">
+      <module name="google" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,6 +253,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.objects" />
       <item itemvalue="Python.debugger" />
       <item itemvalue="Python.test" />
     </list>
@@ -258,23 +289,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="692" extended-state="6" />
-    <editor active="true" />
+    <frame x="61" y="25" width="1305" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878934" weight="0.25841874" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878934" visible="true" weight="0.2668785" />
       <window_info id="Structure" order="1" sideWeight="0.50121063" side_tool="true" weight="0.27294493" />
       <window_info id="Favorites" order="2" sideWeight="0.50121063" side_tool="true" weight="0.27294493" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4964086" visible="true" weight="0.32478634" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4980048" weight="0.37094018" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49483716" weight="0.33768353" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4940429" visible="true" weight="0.3442088" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49959448" weight="0.32924694" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4988086" weight="0.32789558" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4988086" weight="0.32952693" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49880287" weight="0.32789558" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5019952" side_tool="true" weight="0.37194127" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49959448" weight="0.32924694" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5059571" side_tool="true" visible="true" weight="0.3442088" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49642575" weight="0.47797716" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -303,6 +333,16 @@
       <window_info anchor="right" id="R Packages" order="4" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -317,6 +357,11 @@
           <url>file://$PROJECT_DIR$/access_codes/accesscode_test.py</url>
           <line>1</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Learn/mymachine.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -348,20 +393,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/access_codes/accesscode.py">
+    <entry file="file://$PROJECT_DIR$/access_codes/accesscode_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-          <folding>
-            <marker date="1539591315432" expanded="true" signature="17:22" ph="..." />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/access_codes/accesscode_test.py">
+    <entry file="file://$PROJECT_DIR$/access_codes/accesscode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn/mymachine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/objects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <folding>
+            <marker date="1540604904364" expanded="true" signature="11:16" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
