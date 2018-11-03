@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="426ea2b4-6e0d-4fc3-ba07-2f59c779bc10" name="Default Changelist" comment="initial commit +1">
-      <change afterPath="$PROJECT_DIR$/Learn/mymachine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JupyterFiles/helloworld.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/access_codes/accesscode.py" beforeDir="false" afterPath="$PROJECT_DIR$/access_codes/accesscode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/access_codes/accesscode_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/access_codes/accesscode_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +15,21 @@
     <session id="274013962">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="acccesscodes" value="1" />
           <entry key="iml" value="1" />
+          <entry key="ipynb" value="1" />
           <entry key="py" value="14" />
           <entry key="xml" value="4" />
         </counts>
@@ -39,6 +37,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
+          <entry key="IPNB" value="1" />
           <entry key="Python" value="15" />
           <entry key="XML" value="4" />
         </counts>
@@ -46,14 +45,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="517" />
-          <entry key="py" value="831" />
+          <entry key="py" value="848" />
           <entry key="txt" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="1348" />
+          <entry key="Python" value="1365" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -64,14 +63,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOP/objects.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="15">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding>
                 <marker date="1540604904364" expanded="true" signature="11:16" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JupyterFiles/helloworld.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -80,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/Learn/mymachine.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -91,6 +99,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -114,6 +123,7 @@
         <option value="$PROJECT_DIR$/access_codes/accesscode_test.py" />
         <option value="$PROJECT_DIR$/Learn/mymachine.py" />
         <option value="$PROJECT_DIR$/OOP/objects.py" />
+        <option value="$PROJECT_DIR$/JupyterFiles/helloworld.ipynb" />
       </list>
     </option>
   </component>
@@ -155,6 +165,21 @@
             <path>
               <item name="google" type="b2602c69:ProjectViewProjectNode" />
               <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="access_codes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="google" type="b2602c69:ProjectViewProjectNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="JupyterFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="google" type="b2602c69:ProjectViewProjectNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="google" type="b2602c69:ProjectViewProjectNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
               <item name="OOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -169,7 +194,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -188,7 +213,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.objects">
+  <component name="RunManager" selected="Jupyter Notebook.google">
+    <configuration name="google" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="google" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
     <configuration name="debugger" type="PythonConfigurationType" factoryName="Python">
       <module name="google" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,6 +298,7 @@
       <item itemvalue="Python.objects" />
       <item itemvalue="Python.debugger" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Jupyter Notebook.google" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -291,19 +334,19 @@
   <component name="ToolWindowManager">
     <frame x="61" y="25" width="1305" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878934" visible="true" weight="0.2668785" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878934" visible="true" weight="0.27640983" />
       <window_info id="Structure" order="1" sideWeight="0.50121063" side_tool="true" weight="0.27294493" />
       <window_info id="Favorites" order="2" sideWeight="0.50121063" side_tool="true" weight="0.27294493" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49483716" weight="0.33768353" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4940429" visible="true" weight="0.3442088" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4940429" weight="0.33768353" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4940429" weight="0.3442088" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4988086" weight="0.32789558" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4988086" weight="0.32952693" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49880287" weight="0.32789558" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5059571" side_tool="true" visible="true" weight="0.3442088" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.5059571" side_tool="true" visible="true" weight="0.33768353" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49642575" weight="0.47797716" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -407,20 +450,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learn/mymachine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/OOP/objects.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding>
             <marker date="1540604904364" expanded="true" signature="11:16" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn/mymachine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JupyterFiles/helloworld.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
         </state>
       </provider>
     </entry>
